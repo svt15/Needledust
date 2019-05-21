@@ -1,0 +1,153 @@
+.row{
+    display: contents
+}
+
+.mat-toolbar{
+    font-size: 14px;
+    /* font-family: fakt-web,Helvetica Neue,Hevetica,sans-serif; */
+    /* position: fixed; */
+    z-index: 100;
+    width: 100%  !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.col-md-4, .col-md-12{
+    text-align: center
+}
+
+.col-md-2{
+    text-align: right
+}
+
+.title{ 
+    font-size: 26px;
+} 
+
+.icon-margin{
+    margin-left: 15px;
+    margin-right: 15px
+}
+
+.bg{
+    background-image: url("../../assets/images/homebanner1.jpg");
+    vertical-align: middle
+}
+
+.header{
+    font-size: 44px;
+    margin-top: 4%
+}
+
+.subheader{
+    font-size: 34px;
+}
+
+.subtitle{
+    color: #e0c02d
+}
+
+.sale{
+    font-size: 64px
+}
+
+.category{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 34px;
+    font-weight: 600
+}
+
+.bg2{
+    width: 100%
+}
+
+.bg3{
+    height: 100%;
+}
+
+.margin-class{
+    margin-top: 7%;
+    height: 50px;
+}
+
+.bg4{
+    width: 10%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.celeb{
+    text-align: center;
+    /* margin-top: 5%; */
+    font-size: 34px;
+    font-weight: 600
+}
+
+.deals{
+    background-color: #e0c02d;
+    font-size: 74px;
+    margin-top: 5%;
+    height: 200px;
+    margin-bottom: 4%
+}
+
+.designer{
+    background-color: inherit;
+    text-align: center;
+    height: 8%;
+    margin-top: 5%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.explore{
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+}
+
+.offer{
+    font-size: 24px;
+}
+
+.deals-img{
+    height: 200px;
+}
+
+.e2{
+    margin-left: 7%;
+    margin-bottom: 12%
+}
+
+.star{
+    color: #FFC016
+}
+
+.user{
+    height: 50%;
+}
+
+.text{
+    font-size: 15px;
+    font-weight: 100 !important
+}
+
+.link{
+    cursor: pointer;
+    border: none
+}
+/* .bg5{
+    background-image: url("../../assets/images/banner1.jpg");
+    background-repeat: no-repeat
+} */
